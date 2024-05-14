@@ -1,0 +1,32 @@
+1. vue create projext-name
+
+(Manually select features, select Babel, Router and CSS Pre-processors)
+(3.x, yes, less, In dedicated config files, No )
+
+2. cd projext-name
+
+3. npm i less less-loader
+
+4. npm i unplugin-vue-components -D
+
+5. copy my uploaded project's vue.config.js to your newly created project(subtitue it)
+
+6. copy my uploaded project's 1.jpg, 2.jpg, 3.jpg in assets directory to the current project (same place)
+
+7. create a directory called contract, put my uploaded project's vote.json to the current project (same place)
+
+8. create a directory called hooks, put my uploaded project's useWeb3.js to the current project (same place)
+
+9. copy my uploaded project's views directory to to the current project (subtitue it)
+
+10. copy my uploaded project's App.vue to to the current project (subtitue it)
+
+11. npm i web3
+
+12. copy my uploaded project's Vote.sol to to the current project (the same place)
+
+13. npm i sass-loader
+
+14. copy my uploaded project's index.js(in router) to the current project (subtitue)
+
+15. npm i vant
